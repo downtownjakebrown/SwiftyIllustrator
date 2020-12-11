@@ -8,7 +8,7 @@ SwiftyIllustrator is a tool for quickly converting Adobe Illustrator shapes into
 
 Just grab a copy of this repo.
 
-## Usage Outline
+## Brief Usage Outline
 
 1) Create a shape or shapes in Illustrator
 2) Select the shape(s)
@@ -17,9 +17,13 @@ Just grab a copy of this repo.
 5) Import the .swift file into your XCode project
 6) Implement the generated SwiftUI view as you please
 
-## Detailed Example
+## Detailed Usage Example
 
 To be added...
+
+## Caveats
+
+* TBD
 
 ## Other Info
 
