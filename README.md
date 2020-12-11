@@ -1,19 +1,21 @@
+<img src="https://github.com/downtownjakebrown/SwiftyIllustrator/blob/main/Images/swiftyIllustrator.png" height="200"/>
+
 # SwiftyIllustrator
 
-SwiftyIllustrator is a tool for quickly converting shapes drawn with Adobe Illustrator into SwiftUI code.
+SwiftyIllustrator is a tool for quickly converting Adobe Illustrator shapes into SwiftUI code.
 
 ## Installation
 
-Grab a copy of this repo. Open up Adobe Illustrator and XCode.
+Just grab a copy of this repo.
 
 ## Usage Outline
 
-1) Create a shape in illustrator
-2) Select the shape
-3) Run the conversion javascript
-4) Save output as a Swift file
-5) Import the Swift file into your XCode project
-6) Implement the generated SwiftUI view
+1) Create a shape or shapes in Illustrator
+2) Select the shape(s)
+3) Run the SwiftyIllustrator javascript
+4) Save output text as a .swift file
+5) Import the .swift file into your XCode project
+6) Implement the generated SwiftUI view as you please
 
 ## Detailed Example
 
