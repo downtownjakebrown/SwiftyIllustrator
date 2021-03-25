@@ -52,6 +52,6 @@ This project was tested using:
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 ## License
-[MIT](https://choosealicense.com/licenses/mit/)
+SwiftyIllustrator is available under the MIT license. See the [LICENSE](./LICENSE) file for more info.
 
 [1]: ./Illustrator/ExampleIllustratorContent.ai
